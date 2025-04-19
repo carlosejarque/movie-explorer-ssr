@@ -16,6 +16,10 @@ Aplicación web desarrollada con **Next.js** utilizando el nuevo sistema de **Ap
 - CSS Modules o equivalente
 - API de [The Movie Database (TMDb)](https://www.themoviedb.org/documentation/api)
 
+## 🌐 Demo en producción
+
+https://movie-explorer-ssr-carlosejarque.netlify.app/
+
 ## ⚙️ Instrucciones para ejecución
 
 1. Clona el repositorio:
